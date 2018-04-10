@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sound Demo</string>
+    <string name="button_play">Play</string>
+    <string name="button_pause">Pause</string>
+</resources>
